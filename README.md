@@ -9,6 +9,9 @@ The dataset includes **nine types of operating conditions**, covering:
 - ⚠️ Sensor faults
 - ⚙️ Actuator faults
 - 📡 Communication faults
+
+
+
 ![11](https://github.com/user-attachments/assets/44ac6cae-a803-43a4-a2bc-5b573c32ff30)
 
 ## Citation
